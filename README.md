@@ -1,2 +1,2 @@
 # Portfolio
-Repositório dos projetos que estão no Portfólio do blog.
+Repositório dos projetos que estão no meu Portfólio do blog.
