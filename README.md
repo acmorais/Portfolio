@@ -39,3 +39,4 @@ O arquivo que contém as informações é do tipo .csv e possui 17MB. Por ser um
    Na primeira observação que fiz do *dataset*, foi possível verificar que o mesmo pedido fora registrado 3 vezes, pois as informações sobre: # de lojas diferentes no pedido, preço médio dos itens do pedido e quantidade de itens no pedido estavam cada uma em uma linha dos registros. A descrição estava no campo "Nomes_de_medida" e o valor de cada um estava no campo "Valores_de_medida". Seria preciso, então, transformar cada uma dessas observações em atributos, ou seja, criar três colunas com os nomes: [# de lojas diferentes no pedido], [Preço médio dos itens] e [Quantidade de itens], cada uma com seus respectivos valores e, assim, manter cada pedido com apenas um registro.  
    <br/>
    <br/>
+(https://github.com/acmorais/Portfolio_casezax/blob/main/query_registros.JPG)
