@@ -33,12 +33,21 @@ O arquivo que contém as informações é do tipo .csv e possui 17MB. Por ser um
 
 ### **2.	Desenvolvimento**
 <br/>
-Na primeira observação que fiz do *dataset*, foi possível verificar que o mesmo pedido fora registrado 3 vezes, pois as informações sobre: # de lojas diferentes no pedido, preço médio dos itens do pedido e quantidade de itens no pedido estavam cada uma em uma linha dos registros. A descrição estava no campo "Nomes_de_medida" e o valor de cada um estava no campo "Valores_de_medida". Seria preciso, então, transformar cada uma dessas observações em atributos, ou seja, criar três colunas com os nomes: [# de lojas diferentes no pedido], [Preço médio dos itens] e [Quantidade de itens], cada uma com seus respectivos valores e, assim, manter cada pedido com apenas um registro.  
+Na primeira observação que fiz do *dataset*, foi possível verificar que o mesmo pedido estava sendo registrado 3 vezes, pois as informações sobre: # de lojas diferentes no pedido, preço médio dos itens do pedido e quantidade de itens no pedido estavam cada uma em uma linha dos três registros. A descrição estava no campo "Nomes_de_medida" e o valor estava no campo "Valores_de_medida". Assim, o *dataset* possuia 9 colunas e 147054 linhas.
+  <br/>
+  
+Seria preciso transformar cada uma dessas observações em atributos, ou seja, criar três colunas com os nomes: [# de lojas diferentes no pedido], [Preço médio dos itens] e [Quantidade de itens], cada uma com seus respectivos valores e, assim, manter um pedido por linha do *dataset* (um pedido = um registro).  
    <br/>
    <br/>
    
    ![description="Query no SQL Server com os registros triplicados" ](https://github.com/acmorais/Portfolio_casezax/blob/main/query_registros.JPG)
+    <br/>
+    <br/>
+    
+   Ainda no SQL Server, realizei algumas querys para conferir se haviam campos nulos ou vazios, confirmar se só haviam mesmo os registros # de lojas diferentes no pedido, Preço médio dos itens e Quantidade de itens na coluna "Nomes_de_medida" para, então, transformar essas linhas em colunas. 
+   O script com todas as querys pode ser acessado aqui: <https://github.com/acmorais/Portfolio_casezax/blob/main/case_zax.sql>
    
-   Ainda no SQL Server, realizei algumas querys para conferir se haviam campos nulos ou vazios, confirmar se só haviam os registros # de lojas diferentes no pedido, Preço médio dos itens e Quantidade de itens na coluna "Nomes_de_medida" para, então, transformar essas linhas em colunas. 
-   O script com todas as querys feitas pode ser acessado aqui: <
+   Assim, no SQL Server foi criada uma view de nome *new_dados* já com as informações de quantidade de lojas diferentes no pedido, preço médio dos itens e quantidade de itens como atributos (colunas) da planilha, estando cada pedido de compra em apenas um registro (uma linha) do *dataset*. Essa view será importada diretamente no Power BI, para continuar a análise.
+   
+   ![view_para_levar_ao_PBI](https://github.com/acmorais/Portfolio_casezax/blob/main/query_new_Dados.JPG)
    
