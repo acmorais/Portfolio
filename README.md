@@ -53,7 +53,7 @@ Seria preciso transformar cada uma dessas observações em atributos, ou seja, c
    
    No Power BI foi possível alterar os tipos de dados das colunas, criar uma coluna nova calculada com o Valor total de cada pedido ([Qtde de itens * Preço médio do pedido]) e criar diversas visualizações para responder aos problemas de negócio.
    
-   Quando se trata de clientes, é fundamental trabalharmos com algumas métricas importantes como Ticket Médio e Lifetime Value (LTV), pois podemos realizar comparações a partir do entendimento sobre o padrão dos seus clientes. O Power BI permite criar medidas a partir de funções DAX e, então, criei 4 medidas importantes: Ticket Médio, LTV anual, média de compra anual por cliente e projeção de faturamento anual. Optei por extrapolar os resultados desses 7 meses compreendidos no *dataset* (de 01/11/2020 a 21/05/2021) para 12 meses e, assim, saber qual LTV no período de um ano e, também, o padrão de compra anual.
+   Quando se trata de clientes, é fundamental trabalharmos com algumas informações importantes como Ticket Médio e Lifetime Value (LTV), pois podemos realizar comparações a partir do entendimento sobre o padrão dos seus clientes. O Power BI permite criar medidas a partir de funções DAX e, então, criei 4 indicadores: Ticket Médio, LTV anual, média de compra anual por cliente e projeção de faturamento anual. Optei por extrapolar os resultados desses 7 meses compreendidos no *dataset* (de 01/11/2020 a 21/05/2021) para 12 meses e, assim, saber qual LTV no período de um ano e, também, o padrão de compra anual.
     <br/>
     
    As novas medidas foram realizadas da seguinte maneira:
@@ -76,11 +76,13 @@ Seria preciso transformar cada uma dessas observações em atributos, ou seja, c
    O terceiro perfil corresponde a 10,8% do total de clientes e traz aqueles que possuem ticket médio alto, porém, baixo LTV. Esses clientes têm um grande potencial de compra e devem ser estimulados a comprarem mais vezes, pois significa que quando compram, gastam mais do que a média. 
    Por fim, o quarto perfil observado é daqueles que tem Ticket Médio e LTV altos. Ou seja, são os clientes que realizam compras grandes e com frequência, e que naturalmente, se estimulados a comprarem sempre mais, contribuirão com um percentual importante no faturamento, mesmo correspondendo a apenas 18% do total de clientes.
     <br/>
+    As informações desses perfis podem ser visualizadas abaixo:
     
     2.1 Respostas aos problemas de negócio
     
    **1)	Para quais clientes a Zax deve ofertar o crédito e por quê?**
-      A partir desses
+      A partir desses parâmetros, sugiro que, neste primeiro momento, a ZAX olhe para 3 desses 4 perfis de cliente para os quais ofertará crédito.
+      O 4º perfil descrito, dos que têm altos ticket médio e LTV: para esses seria ofertado 10% de desconto   
       
       <br/>
       <br/>
