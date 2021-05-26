@@ -137,7 +137,6 @@ Os clientes cujo ticket médio é baixo, porém com alto LTV, correspondem a 14,
   
    **3)	Quanto dinheiro a ZAX estaria arriscando?**
    
-     <br/>
      
    Os cálculos foram realizados, levando-se em conta o ticket médio de cada grupo.
    Para o 4º perfil de clientes, se todos utilizarem o voucher, o custo da ZAX será de R$285.698,71, sendo que as compras deles, pelo valor mínimo do voucher a ser utilizado (R$500,00), totalizaria R$ 2.234.500,00 em dois meses. Se eles mantiverem o ticket médio de compra, será de R$ 2.856.987,01.
