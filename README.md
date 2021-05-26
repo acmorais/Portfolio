@@ -80,7 +80,15 @@ Seria preciso transformar cada uma dessas observações em atributos, ou seja, c
     2.1 Respostas aos problemas de negócio
     
    **1)	Para quais clientes a Zax deve ofertar o crédito e por quê?**
-   É claro 
+      A partir desses
+      
+      <br/>
+      <br/>
+### 3. Conclusão
+   <br/>
+   
+   É claro que uma análise de *consumer behavior* traria diversas outras respostas mais profundas sobre em que contexto os clientes da ZAX compram e quais as motivações e percepções que influenciam a decisão de compra deles. 
+   Um estudo mais aprofundado deve ser considerado no futuro, devendo trazer um histórico maior de compras e podendo construir modelo de machine learning para aperfeiçoar o entendimento sobre o cliente, separando-os em perfis cada vez mais específicos e, assim, entregar experiências mais individualizadas e satisfazer suas necessidades.  
    
    
    
