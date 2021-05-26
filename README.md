@@ -93,14 +93,14 @@ O terceiro perfil corresponde a 10,8% do total de clientes e traz aqueles que po
 Os clientes cujo ticket médio é baixo, porém com alto LTV, correspondem a 14,3% do total de faturamento nesses 7 meses.
 <br/> 
 <br/>
- ![description="Clientes com alto Ticket e baixo LTV" ](https://github.com/acmorais/Portfolio_casezax/blob/main/tmalto_bxltv.JPG)             ![description="Clientes com altos Ticket e LTV" ](https://github.com/acmorais/Portfolio_casezax/blob/main/tmalto_ltvalto.JPG)
+ ![description="Clientes com alto Ticket e baixo LTV" ](https://github.com/acmorais/Portfolio_casezax/blob/main/tmalto_bxltv.JPG)      ![description="Clientes com altos Ticket e LTV" ](https://github.com/acmorais/Portfolio_casezax/blob/main/tmalto_ltvalto.JPG)
   <br/>    
   <br/>
   Os clientes classificados como 3º perfil correspondem a 7,2% do faturamento e, por fim, as compras dos clientes com alto LTV e alto ticket correspondem a 55,5% de todo faturamento. Ou seja, são imprescindíveis para a saúde do negócio.
   <br/>    
   <br/> 
 
-        2.1 Respostas aos problemas de negócio
+## 2.1 Respostas aos problemas de negócio
   <br/>    
   <br/>
   
