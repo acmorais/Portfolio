@@ -166,13 +166,13 @@ Os clientes cujo ticket médio é baixo, porém com alto LTV, correspondem a 14,
 <br/>
 <br/>
 
- ![description="Dashboard1" ](https://github.com/acmorais/Portfolio_casezax/blob/main/dash_pag01.JPG)
+ ![description="Dashboard1" ](https://github.com/acmorais/Portfolio_casezax/blob/main/dashboard01.JPG)
  
  
 <br/>
 <br/>
 
- ![description="Dashboard1" ](https://github.com/acmorais/Portfolio_casezax/blob/main/dash_pag02.JPG)
+ ![description="Dashboard1" ](https://github.com/acmorais/Portfolio_casezax/blob/main/dashboard02.JPG)
    
    
    
