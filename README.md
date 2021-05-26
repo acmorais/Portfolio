@@ -161,7 +161,7 @@ Os clientes cujo ticket médio é baixo, porém com alto LTV, correspondem a 14,
    <br/>
    
    
-           Dashboards do Power BI:
+           [Dashboards do Power BI:](https://github.com/acmorais/Portfolio_casezax/blob/main/Ana_Morais_casezax.pbix)
 
 <br/>
 <br/>
