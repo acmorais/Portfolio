@@ -123,7 +123,7 @@ Os clientes cujo ticket médio é baixo, porém com alto LTV, correspondem a 14,
    **2)	Qual seria o valor ideal para cada?**
    <br/>
    
-   Para o 4º perfil descrito seria ofertado um voucher com 10% de desconto para a próxima compra acima de R$500 que fizerem. Como o ticket médio desse perfil é de R$639,29 e eles têm alto LTV, sabemos que comprarão em breve e, provavelmente, com um valor acima do mínimo do voucher, então, não vejo a necessidade de colocar um vencimento curto para o uso desse voucher. Caso precisemos definir um prazo para uso, creio que de 2 meses é um bom prazo, visto que esses clientes compram, em média, a cada 2,4 meses.
+   Para o 4º perfil descrito, seria ofertado um voucher com 10% de desconto para a próxima compra acima de R$500 que fizerem. Como o ticket médio desse perfil é de R$639,29 e eles têm alto LTV, sabemos que comprarão em breve e, provavelmente, com um valor acima do mínimo do voucher, então, não vejo a necessidade de colocar um vencimento curto para o uso desse voucher. Caso precisemos definir um prazo para uso, creio que de 2 meses é um bom prazo, visto que esses clientes compram, em média, a cada 2,4 meses.
    <br/>
    
    Para o 3º perfil descrito, acho interessante que o prazo de vencimento do voucher seja menor, para incentivar que comprem mais vezes, e com valor acima de R$300 (acima do ticket médio), para não diminuir o ticket médio. O voucher pode conceder R$30,00 de desconto. 
@@ -133,8 +133,10 @@ Os clientes cujo ticket médio é baixo, porém com alto LTV, correspondem a 14,
  <br/>  
  Para o 2º perfil descrito, precisamos aumentar o ticket médio deles, então só faz sentido que o voucher de desconto possa ser usado para compras acima de R$300 (acima do ticket médio). Podendo ser concedido R$15,00 de desconto.
   <br/>
+  <br/>
   
    **3)	Quanto dinheiro a ZAX estaria arriscando?**
+   
      <br/>
      
    Os cálculos foram realizados, levando-se em conta o ticket médio de cada grupo.
