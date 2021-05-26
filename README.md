@@ -148,7 +148,7 @@ Os clientes cujo ticket médio é baixo, porém com alto LTV, correspondem a 14,
    Para o 2º perfil de clientes, aos quais concederemos R$15,00 de desconto, o custo para a ZAX, se todos usarem o voucher será de R$27.435,00. E um retorno de R$548.700,00.
   <br/>
      
-   Assim, o custo total para a ZAX é de R$ 393.803,71, podendo chegar a um faturamento de R$4.468.621,82, se todos os clientes do grupo comprarem e mantiverem seus tickets médios.
+   Assim, o custo total para a ZAX é de **R$ 393.803,71**, podendo chegar a um **faturamento de R$4.468.621,82**, se todos os clientes do grupo comprarem e mantiverem seus tickets médios.
    
   
 ##  **3. Conclusão**
