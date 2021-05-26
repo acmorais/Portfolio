@@ -81,16 +81,25 @@ O terceiro perfil corresponde a 10,8% do total de clientes e traz aqueles que po
     <br/>
     As informações desses perfis podem ser visualizadas abaixo:
 <br/>    
-    ![description="Clientes com baixos Ticket e LTV" ](https://github.com/acmorais/Portfolio_casezax/blob/main/tmbx_ltvbaixo.JPG)        ![description="Clientes com baixos Ticket e LTV" ](https://github.com/acmorais/Portfolio_casezax/blob/main/tmbx_ltvalto.JPG)
+    ![description="Clientes com baixos Ticket e LTV" ](https://github.com/acmorais/Portfolio_casezax/blob/main/tmbx_ltvbaixo.JPG)               ![description="Clientes com baixo Ticket e alto LTV" ](https://github.com/acmorais/Portfolio_casezax/blob/main/tmbx_ltvalto.JPG)
 <br/> 
- ![description="Clientes com baixos Ticket e LTV" ](https://github.com/acmorais/Portfolio_casezax/blob/main/tmalto_bxltv.JPG)     ![description="Clientes com baixos Ticket e LTV" ](https://github.com/acmorais/Portfolio_casezax/blob/main/tmalto_ltvalto.JPG)
+<br/> 
+É importante ressaltar que os clientes com baixos ticket e LTV, por serem a grande maioria dos clientes, foram responsáveis por 20% de todo o faturamento. 
+
+Os clientes cujo ticket médio é baixo, porém com alto LTV, correspondem a 14,3% do total de faturamento nesses 7 meses.
+<br/> 
+<br/>
+ ![description="Clientes com alto Ticket e baixo LTV" ](https://github.com/acmorais/Portfolio_casezax/blob/main/tmalto_bxltv.JPG)             ![description="Clientes com altos Ticket e LTV" ](https://github.com/acmorais/Portfolio_casezax/blob/main/tmalto_ltvalto.JPG)
   <br/>    
+  <br/>
+  Os clientes classificados como 3º perfil correspondem a 7,2% do faturamento e, por fim, as compras dos clientes com alto LTV e alto ticket correspondem a 55,5% de todo faturamento. Ou seja, são imprescindíveis para a saúde do negócio.
   <br/>    
+  <br/> 
       2.1 Respostas aos problemas de negócio
     
    **1)	Para quais clientes a Zax deve ofertar o crédito e por quê?**
       A partir desses parâmetros, sugiro que, neste primeiro momento, a ZAX olhe para 3 desses 4 perfis de cliente para os quais ofertará crédito.
-      O 4º perfil descrito, dos que têm altos ticket médio e LTV: para esses seria ofertado 10% de desconto   
+      Para o 4º perfil descrito, dos que têm altos ticket médio e LTV, cujas compras resultam em mais da metade de todo o faturamento anual, seria ofertado um voucher com 10% de desconto para a próxima compra acima de R$500 dentro de . Como o ticket médio desse perfil é de R$639,29
       
   <br/>
   <br/>
