@@ -53,7 +53,7 @@ Seria preciso transformar cada uma dessas observações em atributos, ou seja, c
    
    No Power BI foi possível alterar os tipos de dados das colunas, criar uma coluna nova calculada com o Valor total de cada pedido ([Qtde de itens * Preço médio do pedido]) e criar diversas visualizações para responder aos problemas de negócio.
    
-   Quando se trata de clientes, é fundamental trabalharmos com algumas métricas importantes como Ticket Médio e Lifetime Value (LTV), pois podemos realizar comparações a partir do entendimento sobre o padrão dos seus clientes. O Power BI permite criar medidas a partir de funções DAX e, então, criei 4 medidas importantes: Ticket Médio, LTV anual, média de compra anual por cliente e projeção de faturamento anual. Optei por extrapolar os resultados desses 7 meses compreendidos no *dataset* para 12 meses e, assim, ter uma ideia de LTV no período de um ano e, também, um padrão de compra anual.
+   Quando se trata de clientes, é fundamental trabalharmos com algumas métricas importantes como Ticket Médio e Lifetime Value (LTV), pois podemos realizar comparações a partir do entendimento sobre o padrão dos seus clientes. O Power BI permite criar medidas a partir de funções DAX e, então, criei 4 medidas importantes: Ticket Médio, LTV anual, média de compra anual por cliente e projeção de faturamento anual. Optei por extrapolar os resultados desses 7 meses compreendidos no *dataset* (de 01/11/2020 a 21/05/2021) para 12 meses e, assim, saber qual LTV no período de um ano e, também, o padrão de compra anual.
     <br/>
     
    As novas medidas foram realizadas da seguinte maneira:
@@ -64,14 +64,17 @@ Seria preciso transformar cada uma dessas observações em atributos, ou seja, c
    - Projeção do faturamento bruto a partir desses dados: LTV multiplicado pelo total de clientes. 
    <br/>
    
-   Chegamos em alguns valores importantes para começarmos a avalair para quais clientes a DAX irá ofertar crédito.
+   Chegamos em alguns valores importantes para começarmos a avalair para quais clientes a ZAX irá ofertar crédito.
    * **Ticket Médio:** R$288,99
    * **LTV:** R$979,15
    * **Média de compra por ano:** 3 compras por cliente
    * **Projeção faturamento bruto:** R$24,3 Milhões 
    <br/>
    
-   quanto esses clientes gastam em médiaCriei visualizações, uma com o ranking dos clientes com maiores valores gastos e outra com os clientes que mais vezes compraram, além de uma tabela com informação sobre o período de compras dos clientes, assim, saberemos se esses clientes realizam compras com frequência. O período total compreendido no dataset é de novembro de 2020 a maio de 2021.
+   A partir dessas métricas, verifiquei que a ZAX possui 4 perfis de clientes: o primeiro, que corresponde a grande maioria (63,8% do total), tem tanto LTV quanto ticket médio abaixo da média, ou seja, esses clientes compram poucas vezes no ano e em pouco valor individual. 
+   O segundo perfil é dos clientes que possuem ticket médio baixo, ou seja, suas compras tem valor baixo, porém, possuem alto LTV, o que significa que compram muitas vezes ao longo do ano, esses são os clientes assíduos da ZAX, precisamos olhar para eles com carinho e tentar propor ações que aumentem seu ticket médio.
+   O terceiro perfil é dos clientes que possuem ticket médio alto, porém, baixo LTV. Esses clientes possuem uma potência de 
+   
    
    
    
