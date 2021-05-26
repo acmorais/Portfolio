@@ -51,9 +51,27 @@ Seria preciso transformar cada uma dessas observações em atributos, ou seja, c
    
    ![view_para_levar_ao_PBI](https://github.com/acmorais/Portfolio_casezax/blob/main/query_new_Dados.JPG)
    
-   No Power BI foi possível alterar os tipos de dados das colunas, criar uma coluna nova calculada com o Valor total de cada pedido ([Qtde de itens * Preço médio do pedido]) e criar algumas visualizações para responder aos problemas de negócio.
+   No Power BI foi possível alterar os tipos de dados das colunas, criar uma coluna nova calculada com o Valor total de cada pedido ([Qtde de itens * Preço médio do pedido]) e criar diversas visualizações para responder aos problemas de negócio.
    
-   Criei duas visualizações, uma com o ranking dos clientes com maiores valores gastos e outra com os clientes que mais vezes compraram, além de uma tabela com informação sobre o período de compras dos clientes, assim, saberemos se esses clientes realizam compras com frequência. O período total compreendido no dataset é de novembro de 2020 a maio de 2021.
+   Quando se trata de clientes, é fundamental trabalharmos com algumas métricas importantes como Ticket Médio e Lifetime Value (LTV), pois podemos realizar comparações a partir do entendimento sobre o padrão dos seus clientes. O Power BI permite criar medidas a partir de funções DAX e, então, criei 4 medidas importantes: Ticket Médio, LTV anual, média de compra anual por cliente e projeção de faturamento anual. Optei por extrapolar os resultados desses 7 meses compreendidos no *dataset* para 12 meses e, assim, ter uma ideia de LTV no período de um ano e, também, um padrão de compra anual.
+    <br/>
+    
+   As novas medidas foram realizadas da seguinte maneira:
+   - Ticket Médio: calculado dividindo o Valor Total pelo número de pedidos. 
+   - A média de compra nesses 7 meses: divisão do número de pedidos pelo número de clientes (24.800 clientes).
+   - A média de compra anual: divisão de 12 meses por 7 e multiplicado pela média de compra dos 7 meses, calculada anteriormente.
+   - LTV (*lifetime value*): Ticket médio multiplicado pela média de compra anual. Ou seja, quanto cada cliente gasta em média no período de um ano.
+   - Projeção do faturamento bruto a partir desses dados: LTV multiplicado pelo total de clientes. 
+   <br/>
+   
+   Chegamos em alguns valores importantes para começarmos a avalair para quais clientes a DAX irá ofertar crédito.
+   * **Ticket Médio:** R$288,99
+   * **LTV:** R$979,15
+   * **Média de compra por ano:** 3 compras por cliente
+   * **Projeção faturamento bruto:** R$24,3 Milhões 
+   <br/>
+   
+   quanto esses clientes gastam em médiaCriei visualizações, uma com o ranking dos clientes com maiores valores gastos e outra com os clientes que mais vezes compraram, além de uma tabela com informação sobre o período de compras dos clientes, assim, saberemos se esses clientes realizam compras com frequência. O período total compreendido no dataset é de novembro de 2020 a maio de 2021.
    
    
    
