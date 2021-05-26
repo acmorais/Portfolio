@@ -71,9 +71,16 @@ Seria preciso transformar cada uma dessas observações em atributos, ou seja, c
    * **Projeção faturamento bruto:** R$24,3 Milhões 
    <br/>
    
-   A partir dessas métricas, verifiquei que a ZAX possui 4 perfis de clientes: o primeiro, que corresponde a grande maioria (63,8% do total), tem tanto LTV quanto ticket médio abaixo da média, ou seja, esses clientes compram poucas vezes no ano e em pouco valor individual. 
-   O segundo perfil é dos clientes que possuem ticket médio baixo, ou seja, suas compras tem valor baixo, porém, possuem alto LTV, o que significa que compram muitas vezes ao longo do ano, esses são os clientes assíduos da ZAX, precisamos olhar para eles com carinho e tentar propor ações que aumentem seu ticket médio.
-   O terceiro perfil é dos clientes que possuem ticket médio alto, porém, baixo LTV. Esses clientes possuem uma potência de 
+   A partir dessas métricas, verifiquei que a ZAX possui 4 perfis de clientes: o primeiro, que corresponde a grande maioria (63,8% do total), tem tanto LTV quanto ticket médio abaixo da média, ou seja, esses clientes compram poucas vezes no ano e gastam pouco individualmente. Porém, esses clientes correspondem a um valor alto em relação ao faturamento total.
+   O segundo perfil é dos clientes que possuem ticket médio baixo, ou seja, suas compras tem valor baixo, porém, possuem alto LTV, o que significa que compram muitas vezes ao longo do ano, esses são os clientes mais assíduos da ZAX, precisamos olhar para eles com carinho e tentar propor ações que aumentem seu ticket médio. Esses clientes correspondem a 7,4% do total de clientes.
+   O terceiro perfil corresponde a 10,8% do total de clientes e traz aqueles que possuem ticket médio alto, porém, baixo LTV. Esses clientes têm um grande potencial de compra e devem ser estimulados a comprarem mais vezes, pois significa que quando compram, gastam mais do que a média. 
+   Por fim, o quarto perfil observado é daqueles que tem Ticket Médio e LTV altos. Ou seja, são os clientes que realizam compras grandes e com frequência, e que naturalmente, se estimulados a comprarem sempre mais, contribuirão com um percentual importante no faturamento, mesmo correspondendo a apenas 18% do total de clientes.
+    <br/>
+    
+    2.1 Respostas aos problemas de negócio
+    
+    
+   
    
    
    
