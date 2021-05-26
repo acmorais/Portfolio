@@ -73,15 +73,19 @@ Seria preciso transformar cada uma dessas observações em atributos, ou seja, c
    
    A partir dessas métricas, verifiquei que a ZAX possui 4 perfis de clientes: o primeiro, que corresponde a grande maioria (63,8% do total), tem tanto LTV quanto ticket médio abaixo da média, ou seja, esses clientes compram poucas vezes no ano e gastam pouco individualmente. Porém, esses clientes correspondem a um valor alto em relação ao faturamento total.
 <br/>
+
    O segundo perfil é dos clientes que possuem ticket médio baixo, ou seja, suas compras tem valor baixo, porém, possuem alto LTV, o que significa que compram muitas vezes ao longo do ano, esses são os clientes mais assíduos da ZAX, precisamos olhar para eles com carinho e tentar propor ações que aumentem seu ticket médio. Esses clientes correspondem a 7,4% do total de clientes.
  <br/>
+ 
 O terceiro perfil corresponde a 10,8% do total de clientes e traz aqueles que possuem ticket médio alto, porém, baixo LTV. Esses clientes têm um grande potencial de compra e devem ser estimulados a comprarem mais vezes, pois significa que quando compram, gastam mais do que a média. 
  <br/>
+ 
    Por fim, o quarto perfil observado é daqueles que tem Ticket Médio e LTV altos. Ou seja, são os clientes que realizam compras grandes e com frequência, e que naturalmente, se estimulados a comprarem sempre mais, contribuirão com um percentual importante no faturamento, mesmo correspondendo a apenas 18% do total de clientes.
     <br/>
     As informações desses perfis podem ser visualizadas abaixo:
-<br/>    
-    ![description="Clientes com baixos Ticket e LTV" ](https://github.com/acmorais/Portfolio_casezax/blob/main/tmbx_ltvbaixo.JPG)               ![description="Clientes com baixo Ticket e alto LTV" ](https://github.com/acmorais/Portfolio_casezax/blob/main/tmbx_ltvalto.JPG)
+<br/>   
+
+   ![description="Clientes com baixos Ticket e LTV" ](https://github.com/acmorais/Portfolio_casezax/blob/main/tmbx_ltvbaixo.JPG)               ![description="Clientes com baixo Ticket e alto LTV" ](https://github.com/acmorais/Portfolio_casezax/blob/main/tmbx_ltvalto.JPG)
 <br/> 
 <br/> 
 É importante ressaltar que os clientes com baixos ticket e LTV, por serem a grande maioria dos clientes, foram responsáveis por 20% de todo o faturamento. 
@@ -98,13 +102,22 @@ Os clientes cujo ticket médio é baixo, porém com alto LTV, correspondem a 14,
       2.1 Respostas aos problemas de negócio
     
    **1)	Para quais clientes a Zax deve ofertar o crédito e por quê?**
+   <br/>   
       A partir desses parâmetros, sugiro que, neste primeiro momento, a ZAX olhe para 3 desses 4 perfis de cliente para os quais ofertará crédito.
-      Para o 4º perfil descrito, dos que têm altos ticket médio e LTV, cujas compras resultam em mais da metade de todo o faturamento anual, seria ofertado um voucher com 10% de desconto para a próxima compra acima de R$500 dentro de . Como o ticket médio desse perfil é de R$639,29
-      
+   <br/>  
+   Para o 4º perfil descrito, dos que têm altos ticket médio e LTV, cujas compras resultam em mais da metade de todo o faturamento anual, seria ofertado um voucher com 10% de desconto para a próxima compra que fizerem acima de R$500. Como o ticket médio desse perfil é de R$639,29 e eles têm alto LTV, sabemos que comprarão em breve e, provavelmente, com um valor acima do mínimo do voucher, então, não vejo a necessidade de colocar um vencimento curto para o uso desse voucher. Caso precisemos definir um prazo para uso, creio que de 2 a 3 meses é um bom prazo, visto que esses clientes compram, em média, a cada 2,4 meses.
+  <br/>     
+   Calculando pelo ticket médio por cliente, o custo para a ZAX, se todos utilizarem o voucher, seria de R$285.698,71, sendo que as compras deles, pelo valor mínimo do voucher (R$500,00), totalizaria R$ 2.234.500,00.
   <br/>
+  Para o 3º perfil descrito, dos que têm alto ticket médio e baixo LTV, precisamos aumentar a frequência com que eles compram. Para esses, acho interessante que o prazo de vencimento do voucher seja menor para compras acima de R$300 (acima do ticket médio). Com foco nesses dois perfis, poderia-se também verificar a criação de um clube de fidelidade, que premia com descontos ou frete grátis a cada *x* valor total comprado.
   <br/>
-### 3. Conclusão
-   <br/>
+    
+  Para o perfil de clientes assíduos, ou seja, aqueles que estão sempre comprando, apesar de comprarem em baixo valor, precisamos aumentar o ticket médio. Eles são clientes que sempre estão no site, então 
+  
+    **2)	Qual seria o valor ideal para cada?**
+  
+##  **3. Conclusão**
+<br/>
    
    É claro que uma análise de *consumer behavior* traria diversas outras respostas mais profundas sobre em que contexto os clientes da ZAX compram e quais as motivações e percepções que influenciam a decisão de compra deles. 
    Um estudo mais aprofundado deve ser considerado no futuro, devendo trazer um histórico maior de compras e podendo construir modelo de machine learning para aperfeiçoar o entendimento sobre o cliente, separando-os em perfis cada vez mais específicos e, assim, entregar experiências mais individualizadas e satisfazer suas necessidades.  
