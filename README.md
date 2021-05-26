@@ -79,7 +79,8 @@ Seria preciso transformar cada uma dessas observações em atributos, ou seja, c
     
     2.1 Respostas aos problemas de negócio
     
-    
+   **1)	Para quais clientes a Zax deve ofertar o crédito e por quê?**
+   É claro 
    
    
    
