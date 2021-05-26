@@ -158,8 +158,21 @@ Os clientes cujo ticket médio é baixo, porém com alto LTV, correspondem a 14,
 <br/>
 
    Um estudo mais aprofundado pode ser considerado no futuro, devendo trazer um histórico maior de compras e podendo construir modelo de machine learning para aperfeiçoar o entendimento sobre o cliente, separando-os em perfis cada vez mais específicos e, assim, entregar experiências mais individualizadas e satisfazer suas necessidades.  
+   <br/>
    
    
+           Dashboards do Power BI:
+
+<br/>
+<br/>
+
+ ![description="Dashboard1" ](https://github.com/acmorais/Portfolio_casezax/blob/main/dash_pag01.JPG)
+ 
+ 
+<br/>
+<br/>
+
+ ![description="Dashboard1" ](https://github.com/acmorais/Portfolio_casezax/blob/main/dash_pag02.JPG)
    
    
    
