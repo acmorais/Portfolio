@@ -4,7 +4,7 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anacmorais/) [<img src="https://img.shields.io/badge/Visite_meu_Site-%23E4405F.svg?&style=for-the-badge&logo=site&logoColor=white" />](https://www.acmorais.com.br/) 
 
-## Análise de dados do histórico de transações de clientes de um e-commerce
+## Análise de dados do histórico de transações de clientes de um e-commerce de varejo
 
 ### **1.	Introdução**
 
@@ -77,15 +77,20 @@ Seria preciso transformar cada uma dessas observações em atributos, ou seja, c
    Por fim, o quarto perfil observado é daqueles que tem Ticket Médio e LTV altos. Ou seja, são os clientes que realizam compras grandes e com frequência, e que naturalmente, se estimulados a comprarem sempre mais, contribuirão com um percentual importante no faturamento, mesmo correspondendo a apenas 18% do total de clientes.
     <br/>
     As informações desses perfis podem ser visualizadas abaixo:
-    
-    2.1 Respostas aos problemas de negócio
+<br/>    
+    ![description="Clientes com baixos Ticket e LTV" ](https://github.com/acmorais/Portfolio_casezax/blob/main/tmbx_ltvbaixo.JPG) ![description="Clientes com baixos Ticket e LTV" ](https://github.com/acmorais/Portfolio_casezax/blob/main/tmbx_ltvalto.JPG)
+<br/> 
+ ![description="Clientes com baixos Ticket e LTV" ](https://github.com/acmorais/Portfolio_casezax/blob/main/tmalto_bxltv.JPG) ![description="Clientes com baixos Ticket e LTV" ](https://github.com/acmorais/Portfolio_casezax/blob/main/tmalto_ltvalto.JPG)
+  <br/>    
+  <br/>    
+      2.1 Respostas aos problemas de negócio
     
    **1)	Para quais clientes a Zax deve ofertar o crédito e por quê?**
       A partir desses parâmetros, sugiro que, neste primeiro momento, a ZAX olhe para 3 desses 4 perfis de cliente para os quais ofertará crédito.
       O 4º perfil descrito, dos que têm altos ticket médio e LTV: para esses seria ofertado 10% de desconto   
       
-      <br/>
-      <br/>
+  <br/>
+  <br/>
 ### 3. Conclusão
    <br/>
    
