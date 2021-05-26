@@ -105,22 +105,44 @@ Os clientes cujo ticket médio é baixo, porém com alto LTV, correspondem a 14,
    <br/>   
       A partir desses parâmetros, sugiro que, neste primeiro momento, a ZAX olhe para 3 desses 4 perfis de cliente para os quais ofertará crédito.
    <br/>  
-   Para o 4º perfil descrito, dos que têm altos ticket médio e LTV, cujas compras resultam em mais da metade de todo o faturamento anual, seria ofertado um voucher com 10% de desconto para a próxima compra que fizerem acima de R$500. Como o ticket médio desse perfil é de R$639,29 e eles têm alto LTV, sabemos que comprarão em breve e, provavelmente, com um valor acima do mínimo do voucher, então, não vejo a necessidade de colocar um vencimento curto para o uso desse voucher. Caso precisemos definir um prazo para uso, creio que de 2 a 3 meses é um bom prazo, visto que esses clientes compram, em média, a cada 2,4 meses.
+   Para o 4º perfil descrito, dos que têm altos ticket médio e LTV, pois suas compras resultam em mais da metade de todo o faturamento anual da ZAX. Esses clientes precisam ser premiados e incentivados a continuar gastando. 
   <br/>     
-   Calculando pelo ticket médio por cliente, o custo para a ZAX, se todos utilizarem o voucher, seria de R$285.698,71, sendo que as compras deles, pelo valor mínimo do voucher (R$500,00), totalizaria R$ 2.234.500,00.
-  <br/>
-  Para o 3º perfil descrito, dos que têm alto ticket médio e baixo LTV, precisamos aumentar a frequência com que eles compram. Para esses, acho interessante que o prazo de vencimento do voucher seja menor para compras acima de R$300 (acima do ticket médio). Com foco nesses dois perfis, poderia-se também verificar a criação de um clube de fidelidade, que premia com descontos ou frete grátis a cada *x* valor total comprado.
-  <br/>
-    
-  Para o perfil de clientes assíduos, ou seja, aqueles que estão sempre comprando, apesar de comprarem em baixo valor, precisamos aumentar o ticket médio. Eles são clientes que sempre estão no site, então 
   
-    **2)	Qual seria o valor ideal para cada?**
+  Para o 3º perfil descrito, dos que têm alto ticket médio e baixo LTV, precisamos aumentar a frequência com que eles compram. Conforme havia dito, são clientes com alto poder de compra, por isso, precisamos incentivá-los a comprar mais e, assim, trazerem um retorno ainda maior.
+  
+  <br/>
+    E, por fim, a ZAX deve ofertar desconto para o perfil de clientes assíduos, ou seja, aqueles que estão sempre comprando. Apesar de terem um ticket médio baixo, esses são os clientes que estão sempre no aplicativo e estão sempre ligados nas novidades, promoções e, com isso, têm um alto potencial para trazerem novos clientes pelo marketing *word of mouth*.
+  
+   **2)	Qual seria o valor ideal para cada?**
+   <br/>
+   
+   Para o 4º perfil descrito seria ofertado um voucher com 10% de desconto para a próxima compra acima de R$500 que fizerem. Como o ticket médio desse perfil é de R$639,29 e eles têm alto LTV, sabemos que comprarão em breve e, provavelmente, com um valor acima do mínimo do voucher, então, não vejo a necessidade de colocar um vencimento curto para o uso desse voucher. Caso precisemos definir um prazo para uso, creio que de 2 meses é um bom prazo, visto que esses clientes compram, em média, a cada 2,4 meses.
+   <br/>
+   
+   Para o 3º perfil descrito, acho interessante que o prazo de vencimento do voucher seja menor, para incentivar que comprem mais vezes, e com valor acima de R$300 (acima do ticket médio), para não diminuir o ticket médio. O voucher pode conceder R$30,00 de desconto. 
+  <br/>
+  
+  Com foco nesses dois perfis, poderia-se também verificar a criação de um clube de fidelidade, que premia com descontos no carrinho ou no frete a cada *x* valor total comprado.
+ <br/>  
+ Para o 2º perfil descrito, precisamos aumentar o ticket médio deles, então só faz sentido que o voucher de desconto possa ser usado para compras acima de R$300 (acima do ticket médio). Podendo ser concedido R$15,00 de desconto.
+  <br/>
+  
+   **3)	Quanto dinheiro a ZAX estaria arriscando?**
+     <br/>
+     
+   Os cálculos foram realizados, levando-se em conta o ticket médio de cada grupo.
+   Para o 4º perfil de clientes, se todos utilizarem o voucher, o custo da ZAX será de R$285.698,71, sendo que as compras deles, pelo valor mínimo do voucher a ser utilizado (R$500,00), totalizaria R$ 2.234.500,00 em dois meses. Se eles mantiverem o ticket médio de compra, será de R$ 2.856.987,01.
+   Para o 3º perfil de clientes, se todos utilizassem o voucher, o custo da ZAX será de R$ 80.670,00, sendo que as compras deles, pelo valor mínimo do voucher (R$300), totalizaria R$ R$806.700,00. Se eles mantiverem o ticket médio de compras deles (R$395,29), o que é mais provável, o valor total das compras poderá chegar a R$1.062.934,81.
+   Para o 2º perfil de clientes, aos quais concederemos R$15,00 de desconto, o custo para a ZAX, se todos usarem o voucher será de R$27.435,00. E um retorno de R$548.700,00.
+   
+   Assim, o custo total para a ZAX é de R$ 393.803,71, podendo chegar a um faturamento de R$4.468.621,82, se todos os clientes do grupo comprarem e mantiverem seus tickets médios.
+   
   
 ##  **3. Conclusão**
 <br/>
    
    É claro que uma análise de *consumer behavior* traria diversas outras respostas mais profundas sobre em que contexto os clientes da ZAX compram e quais as motivações e percepções que influenciam a decisão de compra deles. 
-   Um estudo mais aprofundado deve ser considerado no futuro, devendo trazer um histórico maior de compras e podendo construir modelo de machine learning para aperfeiçoar o entendimento sobre o cliente, separando-os em perfis cada vez mais específicos e, assim, entregar experiências mais individualizadas e satisfazer suas necessidades.  
+   Um estudo mais aprofundado pode ser considerado no futuro, devendo trazer um histórico maior de compras e podendo construir modelo de machine learning para aperfeiçoar o entendimento sobre o cliente, separando-os em perfis cada vez mais específicos e, assim, entregar experiências mais individualizadas e satisfazer suas necessidades.  
    
    
    
