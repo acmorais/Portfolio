@@ -44,7 +44,7 @@ Seria preciso transformar cada uma dessas observações em atributos, ou seja, c
     <br/>
     <br/>
     
-   Ainda no SQL Server, realizei algumas querys para conferir se haviam campos nulos ou vazios, qual o período compreendido no dataset e confirmar se só haviam mesmo os registros # de lojas diferentes no pedido, Preço médio dos itens e Quantidade de itens na coluna "Nomes_de_medida" para, então, transformar essas linhas em atributos. 
+   Ainda no SQL Server, realizei algumas querys para conferir se haviam campos nulos ou vazios, qual o período compreendido no dataset e confirmar se só havia mesmo os registros # de lojas diferentes no pedido, Preço médio dos itens e Quantidade de itens na coluna "Nomes_de_medida" para, então, transformar essas linhas em atributos. 
    O script com todas as querys pode ser acessado aqui: <https://github.com/acmorais/Portfolio_casezax/blob/main/case_zax.sql>
    
    Assim, no SQL Server foi criada uma view de nome *new_dados* já com as informações de quantidade de lojas diferentes no pedido, preço médio dos itens e quantidade de itens como atributos (colunas) da planilha, sendo cada pedido de compra apenas um registro (uma linha) do *dataset*. Essa view ficou com 10 colunas e 49018 linhas e foi importada para o Power BI para continuar a análise.
