@@ -53,7 +53,7 @@ Seria preciso transformar cada uma dessas observações em atributos, ou seja, c
    
    No Power BI foi possível alterar os tipos de dados das colunas, criar uma coluna nova calculada com o Valor total de cada pedido ([Qtde de itens * Preço médio do pedido]) e criar diversas visualizações para responder aos problemas de negócio.
    
-   Quando se trata de clientes, é fundamental trabalharmos com algumas informações importantes como Ticket Médio e Lifetime Value (LTV), pois podemos realizar comparações a partir do entendimento sobre o padrão dos seus clientes. O Power BI permite criar medidas a partir de funções DAX e, então, criei 4 indicadores: Ticket Médio, LTV anual, média de compra anual por cliente e projeção de faturamento anual. Optei por extrapolar os resultados desses 7 meses compreendidos no *dataset* (de 01/11/2020 a 21/05/2021) para 12 meses e, assim, saber qual LTV no período de um ano e, também, o padrão de compra anual.
+   Quando se trata de clientes, é fundamental trabalharmos com algumas informações importantes como Ticket Médio e Lifetime Value (LTV), pois podemos realizar comparações a partir do entendimento sobre o padrão dos clientes. O Power BI permite criar medidas a partir de funções DAX e, então, criei 4 indicadores: Ticket Médio, LTV anual, média de compra anual por cliente e projeção de faturamento anual. Optei por extrapolar os resultados desses 7 meses compreendidos no *dataset* (de 01/11/2020 a 21/05/2021) para 12 meses e, assim, saber qual LTV no período de um ano e, também, o padrão de compra anual.
     <br/>
     
    As novas medidas foram realizadas da seguinte maneira:
