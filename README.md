@@ -33,7 +33,7 @@ O arquivo que contém as informações é do tipo .csv e possui 17MB. Por ser um
 
 ### **2.	Desenvolvimento**
 <br/>
-Na primeira observação que fiz do *dataset* , foi possível verificar que o mesmo pedido estava sendo registrado 3 vezes, pois as informações sobre: # de lojas diferentes no pedido, preço médio dos itens do pedido e quantidade de itens no pedido estavam cada uma em uma linha dos três registros. A descrição estava no campo "Nomes_de_medida" e o valor estava no campo "Valores_de_medida". Assim, o *dataset* possuia 9 colunas e 147054 linhas.
+Na primeira observação que fiz do dataset, foi possível verificar que o mesmo pedido estava sendo registrado 3 vezes, pois as informações sobre: # de lojas diferentes no pedido, preço médio dos itens do pedido e quantidade de itens no pedido estavam cada uma em uma linha dos três registros. A descrição estava no campo "Nomes_de_medida" e o valor estava no campo "Valores_de_medida". Assim, o *dataset* possuía 9 colunas e 147054 linhas.
   <br/>
   
 Seria preciso transformar cada uma dessas observações em atributos, ou seja, criar três colunas com os nomes: [# de lojas diferentes no pedido], [Preço médio dos itens] e [Quantidade de itens], cada uma com seus respectivos valores e, assim, manter um pedido por linha do *dataset* (um pedido = um registro).  
