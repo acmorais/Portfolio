@@ -4,7 +4,7 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anacmorais/) [<img src="https://img.shields.io/badge/Visite_meu_Site-%23E4405F.svg?&style=for-the-badge&logo=site&logoColor=white" />](https://www.acmorais.com.br/) 
 
-## Análise de dados com SQL e Power BI do histórico de transações de clientes de um e-commerce de varejo
+## Análise de dados com SQL e Power BI do histórico de transações de clientes de um e-commerce de atacado
 
 ### **1.	Introdução**
 
